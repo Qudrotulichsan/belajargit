@@ -2,3 +2,4 @@ belajar git!
 - buat project kelompok
 - terbiasa menggunakan git
 - mengerti alur pengerjaan project berkelompok
+- praktek dengan kelompok project
