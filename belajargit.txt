@@ -1,0 +1,3 @@
+belajar git!
+- buat project kelompok
+- terbiasa menggunakan git
